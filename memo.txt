@@ -1,0 +1,17 @@
+# 設定
+# 快適なAtCoder環境構築【コマンド無しで提出まで】
+# https://qiita.com/prln/items/974f1280baa70bd1fd0d
+
+# memo
+# WARNING: The script normalizer is installed in '/Users/{user_name}/Library/Python/3.9/bin' which is not on PATH.
+# 途中で上記のようなエラーが出たので .bash_profile に PATH を追加した
+
+# MacOS Catalinaはデフォルトのログインシェルがbashではないらしい。
+# https://blog.officekoma.co.jp/2020/05/macos-catalinabash.html
+
+# 言語選択が必要になったっぽい
+# atcoder-cli、online-judge-toolsをjavaで環境構築する
+# https://qiita.com/hario/items/20b78cf56634289f79c1
+
+# pypy は 5078 っぽい
+# https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2/code
