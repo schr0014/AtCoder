@@ -15,3 +15,6 @@
 
 # pypy は 5078 っぽい
 # https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2/code
+
+# % ls /Users/so14/Library/Preferences/atcoder-cli-nodejs/python
+# main.py		template.json
