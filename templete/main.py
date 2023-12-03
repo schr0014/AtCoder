@@ -19,6 +19,9 @@ S = [list(input().split()) for _ in range(H)]
 import re
 re.findall('[A-Z]{1}', S)
 
+整数割り算の切り上げ
+( N + X - 1 ) // X
+
 
 ### output
 
